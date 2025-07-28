@@ -1,5 +1,4 @@
-### Here is the simple code for adding two numbers in Python
-```
-sum = 5+6
-print(sum)
-```
+### Here is an example for the task list
+- [ ] write blogs
+- [x] post on Instagram
+- [ ] read books
