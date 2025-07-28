@@ -1,2 +1,11 @@
-# Here is the image of one of the best racing animals
-![Image of Horse](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7pjlryFiruG7ZiY0uo-gImiGBvvytrhNkg&s))
+### Here is the code for calculating factorial using recursion in Python
+```
+def factorial(num): 
+    if (num == 1 or num == 0):
+        return 1
+    else:
+        return (num * factorial(num - 1))  
+num = 7; 
+print("Number: ",num)
+print("Factorial: ",factorial(num))
+```
